@@ -1,0 +1,631 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC700CC-B83F-454C-BB1D-EA14C82AED87}|BL\\BL.csproj|c:\\users\\abanto\\desktop\\appbiblioteca\\bl\\editorialbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC700CC-B83F-454C-BB1D-EA14C82AED87}|BL\\BL.csproj|solutionrelative:bl\\editorialbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC700CC-B83F-454C-BB1D-EA14C82AED87}|BL\\BL.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\bl\\generobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC700CC-B83F-454C-BB1D-EA14C82AED87}|BL\\BL.csproj|solutionrelative:bl\\generobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\libroregistrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\libroregistrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\libroregistrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\libroregistrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\librolistar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\librolistar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\librolistar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\librolistar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\libroeditar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\libroeditar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\libroeditar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\libroeditar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\libroborrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\libroborrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\libroborrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\libroborrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\generoregistrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\generoregistrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\generoregistrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\generoregistrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\generolistar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\generolistar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\generolistar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\generolistar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\generoeditar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\generoeditar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\generoborrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\generoborrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\generoborrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\generoborrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\editorialregistrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\editorialregistrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\editorialregistrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\editorialregistrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\editoriallistar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\editoriallistar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\editoriallistar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\editoriallistar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\editorialeditar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\editorialeditar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\editorialeditar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\editorialeditar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\editorialborrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\editorialborrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\editorialborrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\editorialborrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29627546-F990-45E8-A7DA-F7359BD4D3A1}|DB\\DB.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\db\\connectiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29627546-F990-45E8-A7DA-F7359BD4D3A1}|DB\\DB.csproj|solutionrelative:db\\connectiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC700CC-B83F-454C-BB1D-EA14C82AED87}|BL\\BL.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\bl\\librobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC700CC-B83F-454C-BB1D-EA14C82AED87}|BL\\BL.csproj|solutionrelative:bl\\librobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1089A0-984E-44C6-A441-CF4878BBD4BD}|BE\\BE.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\be\\librobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1089A0-984E-44C6-A441-CF4878BBD4BD}|BE\\BE.csproj|solutionrelative:be\\librobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1089A0-984E-44C6-A441-CF4878BBD4BD}|BE\\BE.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\be\\generobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1089A0-984E-44C6-A441-CF4878BBD4BD}|BE\\BE.csproj|solutionrelative:be\\generobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1089A0-984E-44C6-A441-CF4878BBD4BD}|BE\\BE.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\be\\editorialbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1089A0-984E-44C6-A441-CF4878BBD4BD}|BE\\BE.csproj|solutionrelative:be\\editorialbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\scripts\\webforms\\menu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\scripts\\webforms\\menu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\scripts\\webforms\\smartnav.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\scripts\\webforms\\smartnav.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\ui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B84A1F17-C344-4C94-A156-693935B4D9FC}|UI\\UI.csproj|solutionrelative:ui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29627546-F990-45E8-A7DA-F7359BD4D3A1}|DB\\DB.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\DB\\ConnectionTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29627546-F990-45E8-A7DA-F7359BD4D3A1}|DB\\DB.csproj|solutionrelative:DB\\ConnectionTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1089A0-984E-44C6-A441-CF4878BBD4BD}|BE\\BE.csproj|C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\be\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1089A0-984E-44C6-A441-CF4878BBD4BD}|BE\\BE.csproj|solutionrelative:be\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibroRegistrar.aspx",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\LibroRegistrar.aspx",
+              "RelativeDocumentMoniker": "UI\\LibroRegistrar.aspx",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\LibroRegistrar.aspx",
+              "RelativeToolTip": "UI\\LibroRegistrar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-04T02:28:58.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibroRegistrar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\LibroRegistrar.aspx.cs",
+              "RelativeDocumentMoniker": "UI\\LibroRegistrar.aspx.cs",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\LibroRegistrar.aspx.cs",
+              "RelativeToolTip": "UI\\LibroRegistrar.aspx.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:32:04.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\Utilidades.cs",
+              "RelativeDocumentMoniker": "UI\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\Utilidades.cs",
+              "RelativeToolTip": "UI\\Utilidades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:25:46.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeneroBL.cs",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\BL\\GeneroBL.cs",
+              "RelativeDocumentMoniker": "BL\\GeneroBL.cs",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\BL\\GeneroBL.cs",
+              "RelativeToolTip": "BL\\GeneroBL.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:04:44.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditorialBL.cs",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\BL\\EditorialBL.cs",
+              "RelativeDocumentMoniker": "BL\\EditorialBL.cs",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\BL\\EditorialBL.cs",
+              "RelativeToolTip": "BL\\EditorialBL.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAHwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:05:33.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\Site.Master",
+              "RelativeDocumentMoniker": "UI\\Site.Master",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\Site.Master",
+              "RelativeToolTip": "UI\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-04T02:47:05.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibroListar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\LibroListar.aspx.cs",
+              "RelativeDocumentMoniker": "UI\\LibroListar.aspx.cs",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\LibroListar.aspx.cs",
+              "RelativeToolTip": "UI\\LibroListar.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:31:51.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibroListar.aspx",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\LibroListar.aspx",
+              "RelativeDocumentMoniker": "UI\\LibroListar.aspx",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\LibroListar.aspx",
+              "RelativeToolTip": "UI\\LibroListar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-04T02:28:31.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibroEditar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\LibroEditar.aspx.cs",
+              "RelativeDocumentMoniker": "UI\\LibroEditar.aspx.cs",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\LibroEditar.aspx.cs",
+              "RelativeToolTip": "UI\\LibroEditar.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:32:14.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibroEditar.aspx",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\LibroEditar.aspx",
+              "RelativeDocumentMoniker": "UI\\LibroEditar.aspx",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\LibroEditar.aspx",
+              "RelativeToolTip": "UI\\LibroEditar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-04T02:28:03.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibroBorrar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\LibroBorrar.aspx.cs",
+              "RelativeDocumentMoniker": "UI\\LibroBorrar.aspx.cs",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\LibroBorrar.aspx.cs",
+              "RelativeToolTip": "UI\\LibroBorrar.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:22:27.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibroBorrar.aspx",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\LibroBorrar.aspx",
+              "RelativeDocumentMoniker": "UI\\LibroBorrar.aspx",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\LibroBorrar.aspx",
+              "RelativeToolTip": "UI\\LibroBorrar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-04T02:19:06.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GeneroRegistrar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\GeneroRegistrar.aspx.cs",
+              "RelativeDocumentMoniker": "UI\\GeneroRegistrar.aspx.cs",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\GeneroRegistrar.aspx.cs",
+              "RelativeToolTip": "UI\\GeneroRegistrar.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwCUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T03:13:08.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GeneroRegistrar.aspx",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\GeneroRegistrar.aspx",
+              "RelativeDocumentMoniker": "UI\\GeneroRegistrar.aspx",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\GeneroRegistrar.aspx",
+              "RelativeToolTip": "UI\\GeneroRegistrar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-04T02:31:25.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GeneroListar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\GeneroListar.aspx.cs",
+              "RelativeDocumentMoniker": "UI\\GeneroListar.aspx.cs",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\GeneroListar.aspx.cs",
+              "RelativeToolTip": "UI\\GeneroListar.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:54:02.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GeneroListar.aspx",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\GeneroListar.aspx",
+              "RelativeDocumentMoniker": "UI\\GeneroListar.aspx",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\GeneroListar.aspx",
+              "RelativeToolTip": "UI\\GeneroListar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-04T02:31:07.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GeneroEditar.aspx",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\GeneroEditar.aspx",
+              "RelativeDocumentMoniker": "UI\\GeneroEditar.aspx",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\GeneroEditar.aspx",
+              "RelativeToolTip": "UI\\GeneroEditar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-04T02:30:46.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GeneroBorrar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\GeneroBorrar.aspx.cs",
+              "RelativeDocumentMoniker": "UI\\GeneroBorrar.aspx.cs",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\GeneroBorrar.aspx.cs",
+              "RelativeToolTip": "UI\\GeneroBorrar.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:36:08.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GeneroBorrar.aspx",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\GeneroBorrar.aspx",
+              "RelativeDocumentMoniker": "UI\\GeneroBorrar.aspx",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\GeneroBorrar.aspx",
+              "RelativeToolTip": "UI\\GeneroBorrar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-04T02:30:27.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EditorialRegistrar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\EditorialRegistrar.aspx.cs",
+              "RelativeDocumentMoniker": "UI\\EditorialRegistrar.aspx.cs",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\EditorialRegistrar.aspx.cs",
+              "RelativeToolTip": "UI\\EditorialRegistrar.aspx.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwCUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:32:42.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EditorialRegistrar.aspx",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\EditorialRegistrar.aspx",
+              "RelativeDocumentMoniker": "UI\\EditorialRegistrar.aspx",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\EditorialRegistrar.aspx",
+              "RelativeToolTip": "UI\\EditorialRegistrar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-04T02:30:10.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EditorialListar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\EditorialListar.aspx.cs",
+              "RelativeDocumentMoniker": "UI\\EditorialListar.aspx.cs",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\EditorialListar.aspx.cs",
+              "RelativeToolTip": "UI\\EditorialListar.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:32:34.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EditorialListar.aspx",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\EditorialListar.aspx",
+              "RelativeDocumentMoniker": "UI\\EditorialListar.aspx",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\EditorialListar.aspx",
+              "RelativeToolTip": "UI\\EditorialListar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-04T02:29:52.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EditorialEditar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\EditorialEditar.aspx.cs",
+              "RelativeDocumentMoniker": "UI\\EditorialEditar.aspx.cs",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\EditorialEditar.aspx.cs",
+              "RelativeToolTip": "UI\\EditorialEditar.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:32:50.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditorialEditar.aspx",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\EditorialEditar.aspx",
+              "RelativeDocumentMoniker": "UI\\EditorialEditar.aspx",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\EditorialEditar.aspx",
+              "RelativeToolTip": "UI\\EditorialEditar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-04T02:29:33.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EditorialBorrar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\EditorialBorrar.aspx.cs",
+              "RelativeDocumentMoniker": "UI\\EditorialBorrar.aspx.cs",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\EditorialBorrar.aspx.cs",
+              "RelativeToolTip": "UI\\EditorialBorrar.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:32:59.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EditorialBorrar.aspx",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\EditorialBorrar.aspx",
+              "RelativeDocumentMoniker": "UI\\EditorialBorrar.aspx",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\EditorialBorrar.aspx",
+              "RelativeToolTip": "UI\\EditorialBorrar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-04T02:29:16.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ConnectionDB.cs",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\DB\\ConnectionDB.cs",
+              "RelativeDocumentMoniker": "DB\\ConnectionDB.cs",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\DB\\ConnectionDB.cs",
+              "RelativeToolTip": "DB\\ConnectionDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:26:25.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LibroBL.cs",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\BL\\LibroBL.cs",
+              "RelativeDocumentMoniker": "BL\\LibroBL.cs",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\BL\\LibroBL.cs",
+              "RelativeToolTip": "BL\\LibroBL.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAADwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:56:28.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LibroBE.cs",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\BE\\LibroBE.cs",
+              "RelativeDocumentMoniker": "BE\\LibroBE.cs",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\BE\\LibroBE.cs",
+              "RelativeToolTip": "BE\\LibroBE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:05:51.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GeneroBE.cs",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\BE\\GeneroBE.cs",
+              "RelativeDocumentMoniker": "BE\\GeneroBE.cs",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\BE\\GeneroBE.cs",
+              "RelativeToolTip": "BE\\GeneroBE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:04:06.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EditorialBE.cs",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\BE\\EditorialBE.cs",
+              "RelativeDocumentMoniker": "BE\\EditorialBE.cs",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\BE\\EditorialBE.cs",
+              "RelativeToolTip": "BE\\EditorialBE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:05:16.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\Startup.cs",
+              "RelativeDocumentMoniker": "UI\\Startup.cs",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\Startup.cs",
+              "RelativeToolTip": "UI\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:35:25.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SmartNav.js",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\Scripts\\WebForms\\SmartNav.js",
+              "RelativeDocumentMoniker": "UI\\Scripts\\WebForms\\SmartNav.js",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\Scripts\\WebForms\\SmartNav.js",
+              "RelativeToolTip": "UI\\Scripts\\WebForms\\SmartNav.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-04T02:45:58.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Menu.js",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\Scripts\\WebForms\\Menu.js",
+              "RelativeDocumentMoniker": "UI\\Scripts\\WebForms\\Menu.js",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\Scripts\\WebForms\\Menu.js",
+              "RelativeToolTip": "UI\\Scripts\\WebForms\\Menu.js",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-04T02:46:36.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\Web.config",
+              "RelativeDocumentMoniker": "UI\\Web.config",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\UI\\Web.config",
+              "RelativeToolTip": "UI\\Web.config",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-04T02:35:37.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\BE\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "BE\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\BE\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "BE\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:00:40.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ConnectionTest.cs",
+              "DocumentMoniker": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\DB\\ConnectionTest.cs",
+              "RelativeDocumentMoniker": "DB\\ConnectionTest.cs",
+              "ToolTip": "C:\\Users\\ABANTO\\Desktop\\AppBiblioteca\\DB\\ConnectionTest.cs",
+              "RelativeToolTip": "DB\\ConnectionTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:38:39.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

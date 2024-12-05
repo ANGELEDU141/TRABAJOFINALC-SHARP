@@ -1,0 +1,12 @@
+E:\work01\ciclo5\sabado_30-11-24\AppBiblioteca\BE\bin\Debug\BE.dll
+E:\work01\ciclo5\sabado_30-11-24\AppBiblioteca\BE\bin\Debug\BE.pdb
+E:\work01\ciclo5\sabado_30-11-24\AppBiblioteca\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+E:\work01\ciclo5\sabado_30-11-24\AppBiblioteca\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+E:\work01\ciclo5\sabado_30-11-24\AppBiblioteca\BE\obj\Debug\BE.dll
+E:\work01\ciclo5\sabado_30-11-24\AppBiblioteca\BE\obj\Debug\BE.pdb
+C:\Users\ABANTO\Desktop\AppBiblioteca\BE\bin\Debug\BE.dll
+C:\Users\ABANTO\Desktop\AppBiblioteca\BE\bin\Debug\BE.pdb
+C:\Users\ABANTO\Desktop\AppBiblioteca\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\ABANTO\Desktop\AppBiblioteca\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\ABANTO\Desktop\AppBiblioteca\BE\obj\Debug\BE.dll
+C:\Users\ABANTO\Desktop\AppBiblioteca\BE\obj\Debug\BE.pdb
